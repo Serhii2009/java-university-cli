@@ -1,0 +1,20 @@
+out/
+*.class
+
+# Phase 2 - Entities
+src/university/entities/Person.java
+src/university/entities/Student.java
+src/university/entities/Teacher.java
+src/university/entities/Course.java
+src/university/entities/Enrollment.java
+
+# Phase 3 - Services & Utilities
+src/university/util/GPAUtils.java
+src/university/services/StudentService.java
+src/university/services/TeacherService.java
+src/university/services/CourseService.java
+src/university/services/EnrollmentService.java
+
+# Phase 4 - Entry Point & Documentation
+src/university/Main.java
+README.md
