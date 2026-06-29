@@ -1,7 +1,2 @@
 out/
 *.class
-
-
-# Phase 4 - Entry Point & Documentation
-src/university/Main.java
-README.md
