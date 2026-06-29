@@ -1,13 +1,6 @@
 out/
 *.class
 
-# Phase 2 - Entities
-src/university/entities/Person.java
-src/university/entities/Student.java
-src/university/entities/Teacher.java
-src/university/entities/Course.java
-src/university/entities/Enrollment.java
-
 # Phase 3 - Services & Utilities
 src/university/util/GPAUtils.java
 src/university/services/StudentService.java
