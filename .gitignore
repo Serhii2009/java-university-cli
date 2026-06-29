@@ -1,12 +1,6 @@
 out/
 *.class
 
-# Phase 3 - Services & Utilities
-src/university/util/GPAUtils.java
-src/university/services/StudentService.java
-src/university/services/TeacherService.java
-src/university/services/CourseService.java
-src/university/services/EnrollmentService.java
 
 # Phase 4 - Entry Point & Documentation
 src/university/Main.java
